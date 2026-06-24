@@ -1,4 +1,5 @@
-#include <stdio.h> 
+#include <stdio.h>;
+#include <stdlib.h>;
 // instrução para o compilador permitir o uso da biblioteca padrão de entrada e saída
 // ou seja, permite usar scanf (input de um dado) e printf (output)
 
